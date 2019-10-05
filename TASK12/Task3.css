@@ -1,0 +1,22 @@
+﻿
+
+p, h1 {
+    font-style: italic,normal;
+    font-size: 23px;
+}
+
+table {
+    border:8px   ;
+    border-color:green;
+    border-style:solid;
+    
+   
+}
+
+text {
+    text-decoration: none;
+}
+
+ul {
+    list-style:lower-greek;
+}
